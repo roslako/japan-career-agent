@@ -1,0 +1,34 @@
+# Operating systems and editors
+.DS_Store
+.idea/
+.vscode/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+dist/
+build/
+*.egg-info/
+
+# JavaScript
+node_modules/
+.next/
+coverage/
+playwright-report/
+
+# Local data
+*.db
+*.sqlite3
+
+# Projectless Codex scratch/output folders
+work/
+outputs/
