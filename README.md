@@ -1,6 +1,6 @@
 # Japan Job Tracker
 
-An AI-assisted portfolio project for discovering, organizing, and evaluating graduate and entry-level software roles in Japan.
+Project for discovering, organizing, and evaluating graduate and entry-level software roles in Japan.
 
 ## Current phase
 
