@@ -1,7 +1,3 @@
-# Japan Job Tracker
-
-Project for discovering, organizing, and evaluating graduate and entry-level software roles in Japan.
-
 ## Current phase
 
 This repository contains architecture and project scaffolding only. There is no business logic yet.
